@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.remote.response.sliderdata class SliderResponse(    val articles: List<SliderArticle>?,    val status: String,    val totalResults: Int)

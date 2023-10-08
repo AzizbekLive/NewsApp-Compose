@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.domain.usecaseimport kotlinx.coroutines.flow.Flowimport uz.gita.newsapp_practice.domain.models.SliderParaminterface SliderNewsUseCase {    operator fun invoke(): Flow<List<SliderParam>>}

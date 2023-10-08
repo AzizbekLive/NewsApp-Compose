@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.domain.usecaseimport kotlinx.coroutines.flow.Flowimport uz.gita.newsapp_practice.domain.models.CategoryParaminterface CategoriesUseCase {    operator fun invoke(category: String): Flow<List<CategoryParam>>}

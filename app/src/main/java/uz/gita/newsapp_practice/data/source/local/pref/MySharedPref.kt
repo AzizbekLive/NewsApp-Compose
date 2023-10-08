@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.local.prefinterface MySharedPref {    fun isFirstLaunch(): Boolean    fun setFirstLaunch(isFirstLaunch: Boolean)}

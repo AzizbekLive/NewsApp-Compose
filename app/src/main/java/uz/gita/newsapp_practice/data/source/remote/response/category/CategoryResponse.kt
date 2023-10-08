@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.remote.response.categorydata class CategoryResponse(    val articles: List<CategoryArticle>?,    val status: String,    val totalResults: Int,)

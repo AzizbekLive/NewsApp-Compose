@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.remote.response.sliderdata class SliderArticle(    val author: String?,    val content: String?,    val description: String?,    val publishedAt: String?,    val title: String?,    val url: String?,    val urlToImage: String?,)

@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.domain.repositoryimport kotlinx.coroutines.flow.Flowimport uz.gita.newsapp_practice.domain.models.CategoryParamimport uz.gita.newsapp_practice.domain.models.SliderParaminterface NewsRepository {    fun getSliderNews(): Flow<List<SliderParam>>    fun getCategories(category: String): Flow<List<CategoryParam>>}

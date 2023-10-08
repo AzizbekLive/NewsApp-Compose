@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.presenter.screens.introinterface IntroContract {    interface ViewModel {        fun onEventDispatcher(intent: Intent)    }    interface Intent {        object MoveToMain : Intent    }}

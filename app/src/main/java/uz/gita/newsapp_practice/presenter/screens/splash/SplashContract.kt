@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.presenter.screens.splashinterface SplashContract {    interface ViewModel {    }}

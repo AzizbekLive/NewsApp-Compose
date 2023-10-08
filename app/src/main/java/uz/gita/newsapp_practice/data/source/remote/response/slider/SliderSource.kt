@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.remote.response.sliderdata class SliderSource(    val id: String,    val name: String)

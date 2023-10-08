@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.utilsobject Constants {    const val BASE_URL = "https://newsapi.org/v2/"    const val COUNTRY = "us"    const val API_KEY = "a8361703d9004dbabcae9e1f7167c91b"}

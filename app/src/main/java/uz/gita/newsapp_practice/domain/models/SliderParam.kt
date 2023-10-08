@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.domain.modelsdata class SliderParam(    val author: String?,    val content: String?,    val description: String?,    val publishedAt: String?,    val title: String?,    val url: String?,    val urlToImage: String?,)

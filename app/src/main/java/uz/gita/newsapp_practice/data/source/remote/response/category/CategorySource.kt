@@ -1,0 +1,1 @@
+package uz.gita.newsapp_practice.data.source.remote.response.categorydata class CategorySource(    val id: String,    val name: String)
